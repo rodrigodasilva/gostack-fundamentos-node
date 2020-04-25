@@ -1,0 +1,2 @@
+# gostack-fundamentos-node
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/063b2e91a6404ed09d3fb6d4f1e46905)](https://app.codacy.com/manual/rodrigodasilva/gostack-fundamentos-node?utm_source=github.com&utm_medium=referral&utm_content=rodrigodasilva/gostack-fundamentos-node&utm_campaign=Badge_Grade_Dashboard)
